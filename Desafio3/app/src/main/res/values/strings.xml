@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Desafio3</string>
+
+    <!-- Strings para regiones -->
+    <string name="title_select_region">Selecciona una Región</string>
+    <string name="region_icon_description">Imagen del continente</string>
+    <string name="region_africa">África</string>
+    <string name="region_americas">América</string>
+    <string name="region_asia">Asia</string>
+    <string name="region_europe">Europa</string>
+    <string name="region_oceania">Oceanía</string>
+    <string name="error_loading_regions">Error cargando regiones: %s</string>
+
+    <!-- Strings para países -->
+    <string name="title_countries">Países</string>
+    <string name="title_countries_by_region">Países de %s</string>
+    <string name="error_loading_countries">Error cargando países: %s</string>
+    <string name="flag_description">Bandera del país</string>
+
+    <!-- Strings para detalle de país -->
+    <string name="title_country_info">Información del País</string>
+    <string name="title_weather_info">Información del Clima</string>
+    <string name="label_capital">Capital:</string>
+    <string name="label_region">Región:</string>
+    <string name="label_population">Población:</string>
+    <string name="label_currency">Moneda:</string>
+    <string name="label_language">Idioma:</string>
+    <string name="label_temperature">Temperatura:</string>
+    <string name="label_condition">Condición:</string>
+    <string name="label_wind">Viento:</string>
+    <string name="label_humidity">Humedad:</string>
+    <string name="no_capital">Sin capital</string>
+    <string name="no_region">Sin subregión</string>
+    <string name="no_symbol">Sin símbolo</string>
+    <string name="no_currency">Sin moneda</string>
+    <string name="no_language">Sin idioma</string>
+    <string name="error_no_capital_weather">No hay capital para obtener el clima</string>
+    <string name="error_loading_weather">Error cargando clima</string>
+    <string name="weather_icon_description">Icono del clima</string>
+</resources>
